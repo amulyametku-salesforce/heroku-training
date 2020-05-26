@@ -1,5 +1,5 @@
 # springpeople
-code repo for heroku - amulya
+code repo for heroku - amulya now
 
 <!--This Activator template gets you started building java app  -->
 
